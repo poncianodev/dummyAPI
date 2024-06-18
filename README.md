@@ -1,2 +1,2 @@
 # dummyAPI
-Testes de consumo de API feito na DummyAPI
+Testes de consumo de API feitos na DummyAPI
